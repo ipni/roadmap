@@ -59,7 +59,8 @@ See [Project Goals](#project-goals) above for more detail on which outcome(s) ea
 
 ## Backlog
 
-Future work items proposed by the team but awaiting funding and/or staffing. Feel free to open issues about these.
+Future work items proposed by the team but awaiting funding and/or staffing. Feel free to open issues about these proposals and their relative priority, especially if you(r organization) would contribute directly or monetarily.
+Pull requests to add to this list without discussion on community calls and/or detailed user stories in issues will not be considered!
 
 - 7.) (P3) Checkpoint
   - Supports: reliable
