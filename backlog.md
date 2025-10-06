@@ -16,6 +16,3 @@ Future work items proposed by the team but awaiting funding and/or staffing. Fee
 4. P2: Governance evolution
     a. Supports: reliable, decentralized
     b. Target: healthy federation with governance beyond our team
-
-## Process
-

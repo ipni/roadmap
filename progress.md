@@ -1,6 +1,6 @@
 # Project Progress
 
-Work in progress. See [project goals](/goals.md) for more detail on which outcome(s) each work item supports.
+Work in progress. See [Project Goals](/goals.md) for more detail on which outcome(s) each work item supports.
 
 ## Work Items
 
